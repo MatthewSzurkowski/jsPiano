@@ -1,0 +1,43 @@
+#keyContainer{
+    width: 400px;
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.white{
+    border-radius: 7%;
+    width:50px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.black{
+    width: 20px;
+    height: 50px;
+    background-color: black;
+    z-index: 1;
+    position: absolute;
+}
+
+#cSharp{
+    margin-left: 40px;
+}
+#dSharp{
+    margin-left: 90px;
+}
+#fSharp{
+    margin-left: 190px;
+}
+#gSharp{
+    margin-left: 240px;
+}
+#aSharp{
+    margin-left: 290px;
+}
+#cSharpUp{
+    margin-left: 380px;   
+}
+
