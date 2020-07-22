@@ -1,7 +1,7 @@
 # webPiano
 A piano made with HTML, CSS, and JS.
 
-A little quite right now, but a update will be out soon.
+A little quiet right now, but a update will be out soon.
 
 Link: https://jspiano.herokuapp.com/index.html
 
